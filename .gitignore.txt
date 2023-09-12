@@ -1,1 +1,2 @@
+# Ignorar la carpeta PI2_venv
 PI2_venv/
