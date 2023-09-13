@@ -14,7 +14,7 @@
 
 # Introducción
 
-Este proyecto aborda el análisis de datos de accidentes de tránsito en la Ciudad Autónoma de Buenos Aires con el objetivo de proporcionar información crucial para tomar medidas que reduzcan las víctimas fatales en siniestros viales. El proyecto se desarrolla en colaboración con el `Observatorio de Movilidad y Seguridad Vial` (OMSV) de la ***Secretaría de Transporte*** del Gobierno de la Ciudad Autónoma de Buenos Aires y se basa en datos recopilados entre 2016 y 2021.
+Este proyecto aborda el análisis de datos de accidentes de tránsito en la Ciudad Autónoma de Buenos Aires con el objetivo de proporcionar información crucial para tomar medidas que reduzcan las víctimas fatales en siniestros viales. El proyecto se desarrolla simulando una colaboración con el `Observatorio de Movilidad y Seguridad Vial` (OMSV) de la ***Secretaría de Transporte*** del Gobierno de la Ciudad Autónoma de Buenos Aires y se basa en datos recopilados entre 2016 y 2021.
 
 # Estructura del Proyecto
 
@@ -87,7 +87,7 @@ Durante el análisis de los datos, se destacaron hallazgos importantes:
 - Los motociclistas tienen una alta probabilidad de sufrir accidentes fatales (2.7% de los accidentes de motociclistas).
 - Los peatones también están en riesgo (6% de los accidentes resultan en víctimas fatales).
 - Los autos particulares son los principales responsables de accidentes, pero los transportes de carga y objetos fijos causan más fatalidades.
-- Los sábados y domingos tienen menos accidentes pero más fatalidades, especialmente en autopistas y avenidas principales.
+- Los sábados y domingos son días de menos accidentes pero más fatalidades, especialmente en autopistas y avenidas principales.
 
 # Conclusiones
 
@@ -103,11 +103,11 @@ Basado en el análisis, se pueden concluir los siguientes puntos:
 Se sugieren las siguientes medidas para reducir la tasa de accidentes fatales:
 
 - Aumentar los controles de verificación técnica vehicular en noviembre, diciembre y enero.
-- Reforzar los controles de alcoholemia los viernes de 21hs a sábados de 7hs y sábados de 22hs a domingos de 8hs.
+- Reforzar los controles de alcoholemia los viernes de 21hs a sábados 7hs y sábados de 22hs a domingos 8hs.
 - Prohibir la circulación y carga de vehículos de carga en áreas restringidas de lunes a viernes de 7 a 10hs y de 15 a 18hs, especialmente en comunas 1, 4 y 9.
 - Implementar campañas de concientización sobre el uso del casco para motociclistas y ciclistas, con multas por infracciones.
 - Aumentar los controles de velocidad y uso del cinturón de seguridad en autopistas y peajes los domingos.
-- Concientizar sobre las maniobras peligrosas en avenidas y sus consecuencias fatales, como el estacionamiento en doble fila y los cambios de carril.
+- Concientizar sobre las maniobras peligrosas en avenidas y sus consecuencias fatales, como el estacionamiento en doble fila y los cambios de carril sin aviso previo.
 
 ***
 
@@ -124,5 +124,5 @@ Se sugieren las siguientes medidas para reducir la tasa de accidentes fatales:
 
 #### El presente trabajo fue íntegramente realizado por Jeremías Pombo utilizando:
 * Bibliotecas seaborn, pandas, numpy, matplotlib, folium de Python
-* Streamlit de manera local y de manera remota a través de la web
+* Streamlit de manera local y de manera remota a través de una url en la web
 * Power Bi y Power Service
