@@ -9,13 +9,10 @@ kpi_2 = pd.read_csv('kpi_2.csv')
 kpi_3 = pd.read_csv('kpi_3.csv')
 
     
-if st.checkbox('Visualizar descripciones de KPI'):
-    if st.button('KPI 1'):
-        st.write('Reducir 10% la tasa de homicidios en siniestros viales respecto al semestre anterior')    
-    if st.button('KPI 2'):
-        st.write('Reducir 7% la tasa de homicidios en siniestros viales con motos respecto al año anterior')
-    if st.button('KPI 3'):
-        st.write('Reducir 10% la tasa de homicidios en siniestros viales con peatones respecto al año anterior')
+if st.checkbox('Descripciones de KPI'):
+    st.write('KPI 1: Reducir 10% la tasa de homicidios en siniestros viales respecto al semestre anterior')    
+    st.write('KPI 2: Reducir 7% la tasa de homicidios en siniestros viales con motos respecto al año anterior')
+    st.write('KPI 3: Reducir 10% la tasa de homicidios en siniestros viales con peatones respecto al año anterior')
 
 if st.checkbox('tablas'):      
     tablas = st.radio('Visualizar tablas de KPI:',('KPI 1','KPI 2', 'KPI 3', 'cerrar'), horizontal=True)

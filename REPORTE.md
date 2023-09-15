@@ -13,7 +13,7 @@
 
 # Introducción y Presentación del Problema
 
-En el período comprendido entre los años 2019 y 2021, la Ciudad de Buenos Aires ha sido testigo de un total de 26,135 accidentes viales. Entre estos eventos, 278 de ellos resultaron en tragedias irreparables, es decir, víctimas fatales. Esto se traduce en que el 98.9% de los accidentes viales han dejado secuelas en forma de lesiones leves o graves, mientras que el 1.1% ha tenido como consecuencia la pérdida de vidas humanas.
+En el período comprendido entre los años 2019 y 2021, la Ciudad de Buenos Aires ha sido testigo de un total de más de 26 mil accidentes viales. Entre estos eventos, 278 de ellos resultaron en tragedias irreparables, es decir, víctimas fatales. Esto se traduce en que el 98.9% de los accidentes viales han dejado secuelas en forma de lesiones leves o graves, mientras que el 1.1% ha tenido como consecuencia la pérdida de vidas humanas.
 
 Aunque a simple vista este porcentaje pudiera parecer reducido, su magnitud cobra un significado abrumador cuando se considera el contexto de la Ciudad de Buenos Aires. Este 1% de accidentes fatales equivale a:
 
@@ -53,7 +53,7 @@ Sin embargo, aún más preocupante es la cifra relacionada con los peatones, don
 
 Es relevante destacar que los colectivos, taxis y camionetas, aunque figuran en el top cinco de vehículos acusados de causar accidentes, no están presentes en el ranking de vehículos implicados en accidentes fatales. De hecho los colectivos son el vehículo con menor proporción de accidentes fatales en relación al número de accidentes totales.
 
-A pesar de que los autos particulares son los principales responsables de los accidentes en términos generales, los transportes de carga y los objetos fijos como árboles y semáforos, tienen mayor proporción de ocurrencia de accidentes fatales en comparación con su participación en los accidentes totales. Esto indica que se debe prestar especial atención a la seguridad de estos elementos en las vías públicas.
+A pesar de que los autos particulares son los principales responsables de los accidentes en términos generales, los transportes de carga, los pasajeros que ascienden/descienden de transportes públicos, y los objetos fijos como árboles y semáforos, tienen mayor proporción de ocurrencia de accidentes fatales en comparación con su participación en los accidentes totales. Esto indica que se debe prestar especial atención a la seguridad de estos elementos en las vías públicas.
 
 ### Víctimas Fatales por Tipo:
 
@@ -81,11 +81,11 @@ Se observa una tendencia a la baja en la tasa de accidentes viales, acompañada 
 
 ### Horarios de Mayor Ocurrencia de Accidentes:
 
-Los horarios entre las 12 y las 19 horas, especialmente de lunes a viernes, son los momentos en que se producen la mayoría de los accidentes con lesiones. En contraste, los horarios entre las 5 y las 7 de la mañana, especialmente los fines de semana, son testigos de un mayor número de accidentes fatales. Estos hallazgos resaltan la necesidad de medidas específicas durante estos períodos críticos.
+Los horarios entre las 12 y las 19 horas, especialmente de lunes a viernes, son los momentos en que se producen la mayoría de los accidentes con lesiones. En contraste, los horarios entre las 5 y las 8 de la mañana, especialmente los fines de semana, son testigos de un mayor número de accidentes fatales. Estos hallazgos resaltan la necesidad de medidas específicas durante estos períodos críticos.
 
 ### Tipos de Vías y Su Impacto:
 
-La mayoría de los accidentes ocurren en avenidas, y la Avenida General Paz se destaca como un importante foco de accidentes viales. Además, los accidentes en autopistas muestran una proporción significativamente mayor de fatalidades en comparación con otros tipos de vías (1 de cada 3 accidentes presentan víctimas fatales). Por otro lado, los accidentes en calles internas tienen muy bajas probabilidades de fatalidad. Se entiende que una variable influyente es la velocidad máxima de circulación en calles internas (40km/h).
+La mayoría de los accidentes ocurren en avenidas, y la Avenida General Paz se destaca como un importante foco de accidentes viales. Además, los accidentes en autopistas muestran una proporción significativamente mayor de fatalidades en comparación con otros tipos de vías (1 de cada 3 accidentes presentan víctimas fatales). Por otro lado, los accidentes en calles internas tienen alta ocurrencia pero muy bajas probabilidades de fatalidad. Se entiende que una variable influyente es la velocidad máxima de circulación en calles internas (40km/h).
 
 ### Tipos de Vehículos Causantes de Muertes:
 
@@ -116,7 +116,7 @@ Durante los meses de diciembre y enero, se observa un aumento significativo en l
 
 ### La Franja Horaria Laboral:
 
-La mayoría de los accidentes se producen en el lapso comprendido entre las 12 y las 18 horas, coincidiendo con las horas laborales habituales. Sin embargo, resulta alentador observar que en esta franja horaria, el porcentaje de accidentes con víctimas fatales es notablemente bajo, situándose por debajo del 0.5%. Esto sugiere que la mayoría de estos incidentes son considerados "accidentes menores" en términos de consecuencias mortales. Estos datos respaldan la idea de que las medidas de seguridad y restricciones implementadas durante el horario laboral han tenido un impacto positivo en la reducción de accidentes fatales en este período específico.
+La mayoría de los accidentes se producen en el lapso comprendido entre las 12 y las 19 horas, coincidiendo con las horas laborales habituales. Sin embargo, resulta alentador observar que en esta franja horaria, el porcentaje de accidentes con víctimas fatales es notablemente bajo, situándose por debajo del 0.5%. Esto sugiere que la mayoría de estos incidentes son considerados "accidentes menores" en términos de consecuencias mortales. Estos datos respaldan la idea de que las medidas de seguridad y restricciones implementadas durante el horario laboral han tenido un impacto positivo en la reducción de accidentes fatales en este período específico.
 
 ***
 ***
@@ -125,11 +125,15 @@ La mayoría de los accidentes se producen en el lapso comprendido entre las 12 y
 
 Luego del reporte de análisis y las conclusiones, se recomiendan las siguientes medidas:
 
-Basándonos en los hallazgos y conclusiones derivados del análisis detallado de los datos, se plantean las siguientes recomendaciones con el objetivo de disminuir la tasa de accidentes fatales en la Ciudad de Buenos Aires. Estas medidas están diseñadas para abordar los patrones identificados y abordar de manera efectiva los factores de riesgo que contribuyen a estos trágicos incidentes:
+Basándonos en los hallazgos y conclusiones derivados del análisis detallado de los datos, se plantean las siguientes recomendaciones con el objetivo de disminuir la tasa de accidentes fatales en la Ciudad de Buenos Aires. Estas medidas están diseñadas para comprender los patrones identificados y abordar de manera efectiva los factores de riesgo que contribuyen a estos trágicos incidentes:
 
 ### Duplicación de Controles de Verificación Técnica Vehicular en Temporada Alta:
 
 Los datos revelan un aumento significativo en la presencia de conductores "de ocasión" durante los meses de noviembre, diciembre y enero. Para abordar esta problemática, se recomienda duplicar los controles de verificación técnica vehicular durante estos meses. Esto garantizará que los vehículos en circulación cumplan con los estándares de seguridad necesarios y estén en condiciones óptimas para la conducción.
+
+### Fomentar el uso de transporte público:
+
+Si bien los colectivos ocasionan una importante cantidad de accidentes, lo hacen en menor proporción que otro tipo de transportes como autos, motos y camiones. Además este tipo de vehículos descomprime el tránsito en las zonas de mayor circulación de la ciudad, y tiene baja tasa de fatalidad.
 
 ### Refuerzo de los Controles de Alcoholemia en Horarios Críticos:
 
@@ -137,7 +141,7 @@ Los accidentes ocurridos durante las primeras horas de los sábados y domingos, 
 
 ### Restricción de Vehículos de Carga en Áreas Congestionadas:
 
-Se recomienda implementar la prohibición de circulación, carga y descarga de vehículos de carga en sectores restringidos de la ciudad, especialmente en comunas de alta densidad vehicular y fatalidad (Comuna 1: Monserrat - Microcentro; Comuna 4: Parque Patricios - Barracas - Nueva Pompeya; Comuna 9: Liners, Parque Avellaneda; y Comunas 8 y 9: Villa Lugano, Flores, Bajo Flores) durante las horas de mayor congestión de tráfico, es decir, de lunes a viernes de 7 a 10hs y de 15 a 18hs. Esta medida contribuirá a reducir la probabilidad de accidentes provocados por vehículos de carga en zonas de alto tránsito.
+Se recomienda implementar la prohibición de circulación, carga y descarga de vehículos de carga en sectores restringidos de la ciudad, especialmente en comunas de alta densidad vehicular y fatalidad de motociclistas y peatones (Comuna 1: Monserrat - Microcentro; Comuna 4: Parque Patricios - Barracas - Nueva Pompeya; Comuna 9: Liners, Parque Avellaneda; y Comunas 8 y 9: Villa Lugano, Flores, Bajo Flores) durante las horas de mayor congestión de tráfico, es decir, de lunes a viernes de 7 a 10hs y de 15 a 18hs. Esta medida contribuirá a reducir la probabilidad de accidentes provocados por vehículos de carga en zonas de alto tránsito.
 
 ### Campañas de Concientización y Multas por No Uso de Casco:
 
@@ -149,7 +153,7 @@ Los datos muestran que los accidentes en autopistas los domingos tienden a ser m
 
 ### Concientización sobre Maniobras Peligrosas en Avenidas:
 
-Es fundamental concientizar a los conductores sobre las maniobras peligrosas en avenidas y las consecuencias fatales que pueden derivar de estas acciones. Se deben llevar a cabo campañas educativas que destaquen la importancia de respetar las normas de tráfico, como evitar el estacionamiento en doble fila y realizar cambios de carril de manera segura.
+Es fundamental concientizar a los conductores sobre las maniobras peligrosas en avenidas y las consecuencias fatales que pueden derivar de estas acciones. Se deben llevar a cabo campañas educativas que destaquen la importancia de respetar las normas de tráfico, como evitar el estacionamiento en doble fila, realizar cambios de carril de manera segura, respetar los límites de velocidad en calles y avenidas.
 
 ### Descomprimir el Tránsito en la Avenida General Paz:
 
@@ -157,9 +161,9 @@ La avenida General Paz se identifica como un punto crítico en términos de acci
 
 ### Educación para Peatones:
 
-Finalmente, se sugiere llevar a cabo programas de educación dirigidos a peatones, con un enfoque en las prácticas seguras al ascender y descender de los vehículos y al cruce de avenidas principales. Esta medida tiene como objetivo reducir las muertes de peatones relacionadas con estas actividades cotidianas en la ciudad.
+Finalmente, se sugiere profundizar los programas de educación dirigidos a peatones, con un enfoque en las prácticas seguras al ascender y descender de los vehículos y al cruce de avenidas principales. Esta medida tiene como objetivo reducir las muertes de peatones relacionadas con estas actividades cotidianas en la ciudad.
 
 ***
 ***
 
-Estas recomendaciones se basan en la información extraída a partir del análisis detallado de los patrones de accidentes en la Ciudad de Buenos Aires. Tienen el objetivo de mejorar la seguridad vial y reducir el número de accidentes fatales. La implementación de estas medidas debería contribuir significativamente a alcanzar este objetivo crucial para la comunidad.
+Estas recomendaciones se basan en la información extraída a partir del análisis detallado de los patrones de accidentes en la Ciudad de Buenos Aires en conjunción con datos aportados por el Organismo Nacional de Seguridad Vial. Tienen el objetivo de mejorar la seguridad vial y reducir el número de accidentes fatales. La implementación de estas medidas debería contribuir significativamente a alcanzar este objetivo crucial para la comunidad.

@@ -14,7 +14,7 @@
 
 # Introducción
 
-Este proyecto aborda el análisis de datos de accidentes de tránsito en la Ciudad Autónoma de Buenos Aires con el objetivo de proporcionar información crucial para tomar medidas que reduzcan las víctimas fatales en siniestros viales. El proyecto se desarrolla simulando una colaboración con el `Observatorio de Movilidad y Seguridad Vial` (OMSV) de la ***Secretaría de Transporte*** del Gobierno de la Ciudad Autónoma de Buenos Aires y se basa en datos recopilados entre 2016 y 2021.
+Este proyecto aborda el análisis de datos de accidentes de tránsito en la Ciudad Autónoma de Buenos Aires con el objetivo de proporcionar información crucial para tomar medidas que reduzcan las víctimas fatales en siniestros viales. El proyecto se desarrolla desde un rol de analista de datos, en colaboración con el `Observatorio de Movilidad y Seguridad Vial` (OMSV) de la ***Secretaría de Transporte*** del Gobierno de la Ciudad Autónoma de Buenos Aires y se basa en datos recopilados entre 2016 y 2021.
 
 # Estructura del Proyecto
 
@@ -45,6 +45,7 @@ Este proyecto aborda el análisis de datos de accidentes de tránsito en la Ciud
 
 - **POWER BI**:
   - `PI2_PowerBi.pbix`: Dashboard interactivo del proyecto.
+  - `PI2_PowerBi.pdf`: Dashboard exportado para su visualización rápida.
 
 # Proceso de Trabajo
 
@@ -86,7 +87,7 @@ Durante el análisis de los datos, se destacaron hallazgos importantes:
 - El 98.9% de los accidentes viales resulta en lesiones leves o graves, mientras que el 1.1% son fatales.
 - Los motociclistas tienen una alta probabilidad de sufrir accidentes fatales (2.7% de los accidentes de motociclistas).
 - Los peatones también están en riesgo (6% de los accidentes resultan en víctimas fatales).
-- Los autos particulares son los principales responsables de accidentes, pero los transportes de carga y objetos fijos causan más fatalidades.
+- Los autos particulares son los principales responsables de accidentes, pero los transportes de carga, pasajeros y objetos fijos tienen mayor tasa de fatalidad.
 - Los sábados y domingos son días de menos accidentes pero más fatalidades, especialmente en autopistas y avenidas principales.
 
 # Conclusiones
@@ -113,16 +114,16 @@ Se sugieren las siguientes medidas para reducir la tasa de accidentes fatales:
 
 # Enlaces y Links de Consulta
 
-### A continuación se proporcionan los enlaces para las páginas web de consulta de Streamlit, de Power Service, el link del repositorio de GitHub y el link del video de presentación del informe del proyecto.
+### A continuación se proporcionan los enlaces para las páginas web de consulta: Streamlit, Power Service, repositorio de GitHub, video de presentación en Youtube.
 
 * [Enlace a Streamlit](https://proyectoindividual2jeremiaspombo.streamlit.app/)
 * [Enlace a Power Service](https://app.powerbi.com/links/7dx9UBe8fp?ctid=811b5463-d762-4cb5-9e0c-4f3f84c975cb&pbi_source=linkShare)
 * [Repositorio de GitHub](https://github.com/Jeremias44/Proyecto_Individual_2.git)
-* [Video de Presentación del Informe](https://www.youtube.com/channel/UCmo2YPd9BFo5yDdpsig0QpQ)
+* [Video de Presentación del Informe](https://youtu.be/FA8Fndmutn4?si=6xv35AGshB3oQt35)
 
 ***
 
-#### El presente trabajo fue íntegramente realizado por Jeremías Pombo utilizando:
+#### El presente trabajo fue realizado por Jeremías Pombo utilizando:
 * Bibliotecas seaborn, pandas, numpy, matplotlib, folium de Python
 * Streamlit de manera local y de manera remota a través de una url en la web
 * Power Bi y Power Service
