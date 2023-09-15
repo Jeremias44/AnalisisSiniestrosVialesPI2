@@ -114,12 +114,18 @@ Se sugieren las siguientes medidas para reducir la tasa de accidentes fatales:
 
 # Enlaces y Links de Consulta
 
-### A continuación se proporcionan los enlaces para las páginas web de consulta: Streamlit, Power Service, repositorio de GitHub, video de presentación en Youtube.
+### Enlaces Principales:
 
-* [Enlace a Streamlit](https://proyectoindividual2jeremiaspombo.streamlit.app/)
-* [Enlace a Power Service](https://app.powerbi.com/links/7dx9UBe8fp?ctid=811b5463-d762-4cb5-9e0c-4f3f84c975cb&pbi_source=linkShare)
-* [Repositorio de GitHub](https://github.com/Jeremias44/Proyecto_Individual_2.git)
 * [Video de Presentación del Informe](https://youtu.be/FA8Fndmutn4?si=6xv35AGshB3oQt35)
+* [Repositorio de GitHub](https://github.com/Jeremias44/Proyecto_Individual_2.git)
+* [Imágenes Dashboard]()
+* [Reporte Completo](https://github.com/Jeremias44/Proyecto_Individual_2/blob/main/REPORTE.md)
+* [Linkedin](https://www.linkedin.com/in/jeremiaspombo/)
+
+### Otros Enlaces
+
+* [Enlace a Power Service](https://app.powerbi.com/links/7dx9UBe8fp?ctid=811b5463-d762-4cb5-9e0c-4f3f84c975cb&pbi_source=linkShare)
+* [Enlace a Streamlit](https://proyectoindividual2jeremiaspombo.streamlit.app/)
 
 ***
 
