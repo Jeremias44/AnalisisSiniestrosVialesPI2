@@ -118,7 +118,7 @@ Se sugieren las siguientes medidas para reducir la tasa de accidentes fatales:
 
 * [Video de Presentación del Informe](https://youtu.be/FA8Fndmutn4?si=6xv35AGshB3oQt35)
 * [Repositorio de GitHub](https://github.com/Jeremias44/Proyecto_Individual_2.git)
-* [Imágenes Dashboard]()
+* [Imágenes Dashboard](https://github.com/Jeremias44/Proyecto_Individual_2/tree/main/Dashboard)
 * [Reporte Completo](https://github.com/Jeremias44/Proyecto_Individual_2/blob/main/REPORTE.md)
 * [Linkedin](https://www.linkedin.com/in/jeremiaspombo/)
 
