@@ -124,12 +124,13 @@ Se sugieren las siguientes medidas para reducir la tasa de accidentes fatales:
 
 ### Otros Enlaces
 
-* [Enlace a Power Service](https://app.powerbi.com/links/7dx9UBe8fp?ctid=811b5463-d762-4cb5-9e0c-4f3f84c975cb&pbi_source=linkShare)
+* [Enlace a Dashboard Interactivo]([https://app.powerbi.com/links/7dx9UBe8fp?ctid=811b5463-d762-4cb5-9e0c-4f3f84c975cb&pbi_source=linkShare](https://www.novypro.com/project/informe-de-siniestros-viales-en-la-ciudad-de-buenos-aires---2016-a-2021))
 * [Enlace a Streamlit](https://proyectoindividual2jeremiaspombo.streamlit.app/)
 
 ***
 
 #### El presente trabajo fue realizado por Jeremías Pombo utilizando:
 * Bibliotecas seaborn, pandas, numpy, matplotlib, folium de Python
-* Streamlit de manera local y de manera remota a través de una url en la web
+* Streamlit de manera local y de manera remota a través de una url en la web.
+* Novypro y Microsoft Azure 
 * Power Bi y Power Service
