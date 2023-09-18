@@ -12,13 +12,13 @@ victima_lista = siniestros['VICTIMA'].unique().tolist()
 año_lista = siniestros['A'].unique().tolist()
 fatal_lista = siniestros['FATAL'].unique().tolist()
 
-dias = st.sidebar.multiselect('Día de la Semana:', dia_semana_lista, default=dia_semana_lista)
-comuna = st.sidebar.multiselect('Comuna:', comuna_lista, default=comuna_lista)
-tipo_calle = st.sidebar.multiselect('Tipo de Calle:', tipo_calle_lista, default=tipo_calle_lista)
-acusado = st.sidebar.multiselect('Acusado:', acusado_lista, default=acusado_lista)
-victima = st.sidebar.multiselect('Víctima:', victima_lista, default=victima_lista)
-año = st.sidebar.multiselect('Año:', año_lista, default=año_lista)
-fatal = st.sidebar.multiselect('Fatalidad:', fatal_lista, default=1)
+dias = st.multiselect('Día de la Semana:', dia_semana_lista, default=dia_semana_lista)
+comuna = st.multiselect('Comuna:', comuna_lista, default=comuna_lista)
+tipo_calle = st.multiselect('Tipo de Calle:', tipo_calle_lista, default=tipo_calle_lista)
+acusado = st.multiselect('Acusado:', acusado_lista, default=acusado_lista)
+victima = st.multiselect('Víctima:', victima_lista, default=victima_lista)
+año = st.multiselect('Año:', año_lista, default=año_lista)
+fatal = st.multiselect('Fatalidad:', fatal_lista, default=1)
 
 victimas_por_hora3 = siniestros['H'][(siniestros['DIA_SEMANA'].isin(dias)) & (siniestros['COMUNA'].isin(comuna)) &
                                          (siniestros['TIPO_CALLE'].isin(tipo_calle)) & (siniestros['ACUSADO'].isin(acusado)) &

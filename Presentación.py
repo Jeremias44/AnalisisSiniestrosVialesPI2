@@ -9,7 +9,7 @@ gris_claro = "#C6C6C4"
 
 # Configura el título con color celeste
 st.markdown('<h1 style="color: {};">Análisis de Accidentes de Tránsito en la Ciudad Autónoma de Buenos Aires</h1>'.format(celeste), unsafe_allow_html=True)
-st.markdown('<h1 style="color: {};">Presentación del Problema</h1>'.format(celeste), unsafe_allow_html=True)
+st.markdown('<h1 style="color: {};">Presentación del Problema</h1>'.format(gris), unsafe_allow_html=True)
 
 # Línea divisoria en color gris claro
 st.markdown(f'<hr style="border:2px solid {gris_claro}">', unsafe_allow_html=True)
