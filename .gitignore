@@ -2,4 +2,6 @@
 PI2_venv/
 # Ignorar Video
 Video.mp4
+# Ignorar carpeta
+archivos_imagenes_excluidos/
 
