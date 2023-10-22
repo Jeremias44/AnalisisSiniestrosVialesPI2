@@ -1,5 +1,5 @@
 <h1 align='center'>
- <b>SINIESTROS VIALES BuENOS AIRES</b>
+ <b>SINIESTROS VIALES BUENOS AIRES</b>
 </h1>
 
 # <h1 align="center">**`Por Jeremías Pombo`**</h1>
